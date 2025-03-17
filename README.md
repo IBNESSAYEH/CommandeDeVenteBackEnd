@@ -19,7 +19,8 @@ Running the Application
 
 Clone the repository:
 
-bashCopiergit clone https://github.com/yourusername/sales-management.git
+
+git clone https://github.com/yourusername/sales-management.git
 cd sales-management/backend
 
 Configure database connection (if needed):
